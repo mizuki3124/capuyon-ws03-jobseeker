@@ -1,0 +1,16 @@
+{
+  "name": "asus/itws03",
+  "description": "Job seeker application",
+  "authors": [
+    {
+      "name": "Joshua Enrico Capuyon",
+      "email": "joshuaenricocapuyon@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Framework\\": "Framework/",
+      "App\\": "App/"
+    }
+  }
+}
