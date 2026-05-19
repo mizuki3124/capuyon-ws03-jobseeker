@@ -89,7 +89,7 @@ ws03/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/jobseeker.git
+   git clone https://github.com/mizuki3124/capuyon-ws03-jobseeker
    cd jobseeker
    ```
 
